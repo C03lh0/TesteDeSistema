@@ -1,2 +1,2 @@
-# TesteDeSistema
- Praticando teste de sistemas com Selenium e JUnit.
+# Selenium
+ Testando o site da Fila: https://www.fila.com.br
